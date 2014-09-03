@@ -1,0 +1,5 @@
+./add_genename_coverage.pl /srv/gsfs0/projects/gbsc/Clinical_Service/cases/case0017/medgap-2.0/QC/coverage/acmg/acmg_coverage.txt /srv/gsfs0/projects/gbsc/Clinical_Service/dbases/ACMG/ACMG_genes.bed /srv/gsfs0/projects/gbsc/Clinical_Service/cases/case0017/medgap-2.0/QC/coverage/acmg/acmg_coverage_genes.txt
+
+/srv/gsfs0/projects/gbsc/Clinical_Service/tools/coverage/computed_gene_stats.pl /srv/gsfs0/projects/gbsc/benchmark/giab/NA12878.clia/medgap-2.0/release/QC/coverage/refseq gene_coverage_stats.txt
+
+
