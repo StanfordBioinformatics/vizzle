@@ -10,7 +10,7 @@ COMPUTING THE COVERAGE STATS FOR MIN 10 and MIN 20 with Q0,Q10,Q20,Q30
 After you have the coverage data from Kwality:
 
 1-
-——————————
+——
 /srv/gsfs0/projects/gbsc/Clinical_Service/tools/coverage/add_genes_qsub.pl case0019 medgap-2.0 /srv/gsfs0/projects/gbsc/Clinical_Service/dbases/refSeq/refseq_exons.bed refseq_exons 5 10 15 20 Q0 2g /srv/gsfs0/projects/gbsc/Clinical_Service/cases/case0019/medgap-2.0/QC-0.1/coverage
 
 /srv/gsfs0/projects/gbsc/Clinical_Service/tools/coverage/add_genes_qsub.pl case0019 medgap-2.0 /srv/gsfs0/projects/gbsc/Clinical_Service/dbases/refSeq/refseq_exons.bed refseq_exons 5 10 15 20 Q10 2g /srv/gsfs0/projects/gbsc/Clinical_Service/cases/case0019/medgap-2.0/QC-0.1/coverage
